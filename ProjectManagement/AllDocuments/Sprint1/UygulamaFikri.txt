@@ -1,0 +1,1 @@
+Seyahat Eşleştirme Uygulaması: Kullanıcıların benzer seyahat tercihlerine sahip diğer gezginlerle eşleşebileceği bir uygulama. Kullanıcılar, seyahat etmek istedikleri yerleri ve tercih ettikleri etkinlikleri belirterek uyumlu seyahat arkadaşları bulabilirler.
