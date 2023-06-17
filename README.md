@@ -34,7 +34,7 @@ Hedeflerinizi belirleyin, görevlerinizi yönetin ve ilerlemenizi izleyin.
 Unutkanlıktan kurtulun ve organize olun!
 
                                  
-- **Uygulama birincil fonksiyonu**: X                          
+- **Uygulama birincil fonksiyonu**: Uygulama özellikle öğrenci dostu olmakla beraber hayatına bir düzen getirmek isteyen herkes için planlama yapma, yapılacakları düzenleme, pomodoro zamanlayıcı ile aktif çalışmaya katkıda bulunma ve bunları sevimli bir arayüzle birleştirerek planlama ve çalışmanın korkutucu yönünü azaltmayı planlıyor                        
 
 - **Uygulama ikincil fonksiyonu**: X                                
 
