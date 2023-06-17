@@ -78,7 +78,7 @@ X
 - **Sprint Review**: 
 - Uygulamada her sayfa için arayüz eklenmesi karar kılındı ve tamamlandı.
 - Alınan kararlar:
-- Pomodoro eklentisi, hatırlatıcılar ve bildirim çubuğu eklentisi, firebase bağlantısı Sprint 2'de yapılması üzere kararlaştırıldı.
+- Pomodoro eklentisi, hatırlatıcılar ve bildirim çubuğu eklentisi, firebase bağlantısı Sprint 2'de yapılmak üzere karar alındı.
 
 - **Sprint Retrospective:**
   - X
