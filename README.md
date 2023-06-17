@@ -3,7 +3,6 @@
 Takım Flutter 66
 
 # Ürün İle İlgili Bilgiler
-X
 
 ## Takım Elemanları
 - Berkay SANLI: Scrum Master
