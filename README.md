@@ -27,16 +27,14 @@ To Do, günlük işlerinizi, görevlerinizi ve hedeflerinizi takip etmek için k
 To Do, kullanıcıların işlerini düzenlemelerine, önceliklendirmelerine ve takip etmelerine yardımcı olur.
 Basit bir kullanıcı arabirimiyle, görevlerinizi hızlıca ekleyebilir, tamamlanma durumunu işaretleyebilir ve işlerinizi kolayca organize edebilirsiniz. 
 
-Uygulama içinde bulunan pomodoro aracı sayesinde, çalışma sürelerinizi takip edebilir, düzenli mola sürelerinizi planlayabilir ve daha üretken olabilirsiniz.
+Uygulama içinde bulunan pomodoro eklentisi sayesinde çalışma sürelerinizi takip edebilir ve kişisel mola sürelerinizi planlayabilirsiniz.
 
-To Do`nun amacı, kullanıcıların günlük hayatlarını düzenlemek, hedeflerine odaklanmak ve daha verimli bir şekilde çalışmak için gereken araçları sunmaktır.
-Hedeflerinizi belirleyin, görevlerinizi yönetin ve ilerlemenizi izleyin.
-Unutkanlıktan kurtulun ve organize olun!
+To Do'nun amacı, kullanıcıların günlük hayatlarını düzenlemek, kişisel hedeflere odaklanmak ve verimli bir şekilde çalışmak için gereken araçları sizlere sunmaktır.
+Hedeflerini belirleyin, görevlerinizi yönetin ve ilerlemenizi kolaylıkla izleyin.
 
                                  
-- **Uygulama birincil fonksiyonu**: Uygulama özellikle öğrenci dostu olmakla beraber hayatına bir düzen getirmek isteyen herkes için planlama yapma, yapılacakları düzenleme, pomodoro zamanlayıcı ile aktif çalışmaya katkıda bulunma ve bunları sevimli bir arayüzle birleştirerek planlama ve çalışmanın korkutucu yönünü azaltmayı planlıyor                        
-
-- **Uygulama ikincil fonksiyonu**: X                                
+- **Uygulama birincil fonksiyonu**: Uygulama özellikle öğrenci dostu olmakla beraber hayatına bir düzen getirmek isteyen herkes için planlama yapma, yapılacakları düzenleme, pomodoro zamanlayıcı ile aktif çalışmaya katkıda bulunma ve bunları sevimli bir arayüzle birleştirerek planlama ve çalışmanın korkutucu yönünü azaltmayı planlıyor.                        
+                             
 
 ## Ürün Özellikleri
 
@@ -48,10 +46,9 @@ Unutkanlıktan kurtulun ve organize olun!
                               
 - Bir ekip veya takım çalışması içerisinde olanlar                        
 - Öğrenciler                               
-- X                       
-- X                              
-- X                           
-- X                                  
+- Eğitmenler                      
+- Plan yaparken dikkat eksikliği, hiperaktivite bozukluğu yaşayanlar                           
+- Planlama yapmak isteyen herkes                          
 
 ## Juriye Not
 
@@ -68,7 +65,7 @@ X
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken X puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından X ile başlaması gerektiğine karar verildi.
 
 
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats]) X LİNK
+- **Daily Scrum**: Daily Scrum toplantılarının görevler planlanırken ve uygulanırken takım arkadaşlara ekran paylaşımı aracılığıyla yapılan anlatımların süreci kolaylaştırması gözlemlenmesinden ötürü toplantılar Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats]) X LİNK
 
 - **Sprint board update**: Sprint board screenshotları: 
 ![Backlog 1] X LİNK
