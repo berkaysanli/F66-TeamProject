@@ -38,7 +38,7 @@ Hedeflerini belirleyin, görevlerinizi yönetin ve ilerlemenizi kolaylıkla izle
 
 ## Ürün Özellikleri
 
-- Geri Sayım ve Hatırlatıcılar: Uygulama, geri sayım ve hatırlatıcı özellikleriyle size zamanı yönetme konusunda yardımcı olur.
+- Geri Sayım: Uygulama, geri sayım özelliği ile size planınız için ayarladığınız zamanı takip etmeniz konusunda yardımcı olur.
 - To Do, ilerlemenizi takip etmenizi sağlar. Tamamladığınız görevleri işaretleyerek, ne kadar yol katettiğinizi görebilir ve motive olabilirsiniz.
 - Hatırlatıcılar ve Bildirimler: Kullanıcılara hatırlatıcılar ve bildirimler göndererek önemli görevleri veya süreleri yaklaşan işleri hatırlatır.
 
