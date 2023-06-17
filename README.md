@@ -33,7 +33,7 @@ To Do'nun amacı, kullanıcıların günlük hayatlarını düzenlemek, kişisel
 Hedeflerini belirleyin, görevlerinizi yönetin ve ilerlemenizi kolaylıkla izleyin.
 
                                  
-- **Uygulama birincil fonksiyonu**: X                      
+- **Uygulama birincil fonksiyonu**: Uygulama öğrenci dostu olmakla beraber hayatına bir düzen getirmek isteyen herkes için planlama yapma, yapılacakları düzenleme, pomodoro zamanlayıcı ile aktif çalışmaya katkıda bulunma ve bunları sevimli bir arayüzle birleştirerek planlama ve çalışmanın zorlayıcı ve korkutucu yönlerini azaltmayı planlıyor.                      
                              
 
 ## Ürün Özellikleri
