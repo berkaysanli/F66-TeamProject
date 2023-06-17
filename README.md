@@ -65,7 +65,7 @@ X
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken X puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından X ile başlaması gerektiğine karar verildi.
 
 
-- **Daily Scrum**: Daily Scrum toplantılarının görevler planlanırken ve uygulanırken takım arkadaşlara ekran paylaşımı aracılığıyla yapılan anlatımların süreci kolaylaştırması gözlemlenmesinden ötürü toplantılar Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats]) X LİNK
+- **Daily Scrum**: Daily Scrum toplantılarında görevler planlanırken ve uygulanırken takım arkadaşlara ekran paylaşımı aracılığıyla yapılan anlatımların süreci kolaylaştırması ve anlaşılırlık oranında yarar sağladığı gözlemlenmesinden, toplantılar Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats]) X LİNK
 
 - **Sprint board update**: Sprint board screenshotları: 
 ![Backlog 1] X LİNK
