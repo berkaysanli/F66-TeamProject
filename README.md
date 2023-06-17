@@ -5,11 +5,11 @@ Takım Flutter 66
 # Ürün İle İlgili Bilgiler
 
 ## Takım Elemanları
-- Berkay SANLI: Scrum Master
-- Sena ÖNEMLİ: Product Owner
-- Duygu Sena Öztürk: Developer
-- Yasin Eskici: Developer
-- Hasan Hüseyin SİL: Aktif Olmayan Üye
+• Berkay SANLI: Scrum Master
+• Sena ÖNEMLİ: Product Owner
+• Duygu Sena Öztürk: Developer
+• Yasin Eskici: Developer
+• Hasan Hüseyin SİL: Aktif Olmayan Üye
 
 ## Ürün İsmi
 
@@ -21,24 +21,36 @@ Takım Flutter 66
 
 ## Ürün Açıklaması
 
-X
+To Do: Hedeflerinizi Takip Edin ve Organize Olun!
+To Do, günlük işlerinizi, görevlerinizi ve hedeflerinizi takip etmek için kullanıcı dostu bir uygulamadır.
+To Do, kullanıcıların işlerini düzenlemelerine, önceliklendirmelerine ve takip etmelerine yardımcı olur.
+Basit bir kullanıcı arabirimiyle, görevlerinizi hızlıca ekleyebilir, tamamlanma durumunu işaretleyebilir ve işlerinizi kolayca organize edebilirsiniz. 
 
-- **Uygulama birincil fonksiyonu**: X
+Uygulama içinde bulunan pomodoro aracı sayesinde, çalışma sürelerinizi takip edebilir, düzenli mola sürelerinizi planlayabilir ve daha üretken olabilirsiniz.
 
-- **Uygulama ikincil fonksiyonu**: X
+To Do`nun amacı, kullanıcıların günlük hayatlarını düzenlemek, hedeflerine odaklanmak ve daha verimli bir şekilde çalışmak için gereken araçları sunmaktır.
+Hedeflerinizi belirleyin, görevlerinizi yönetin ve ilerlemenizi izleyin.
+Unutkanlıktan kurtulun ve organize olun!
+
+
+• **Uygulama birincil fonksiyonu**: X
+
+• **Uygulama ikincil fonksiyonu**: X
 
 ## Ürün Özellikleri
 
-X
+• Geri Sayım ve Hatırlatıcılar: Uygulama, geri sayım ve hatırlatıcı özellikleriyle size zamanı yönetme konusunda yardımcı olur.
+• To Do, ilerlemenizi takip etmenizi sağlar. Tamamladığınız görevleri işaretleyerek, ne kadar yol katettiğinizi görebilir ve motive olabilirsiniz.
+• Hatırlatıcılar ve Bildirimler: Kullanıcılara hatırlatıcılar ve bildirimler göndererek önemli görevleri veya süreleri yaklaşan işleri hatırlatır.
 
 ## Hedef Kitle
 
-- X
-- X
-- X
-- X
-- X
-- X
+• Bir ekip veya takım çalışması içerisinde olanlar
+• Öğrenciler
+• X
+• X
+• X
+• X
 
 ## Juriye Not
 
@@ -49,7 +61,7 @@ X
 
 # Sprint 1
 
-- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
+- **Sprint içinde tamamlanması tahmin edilen puan**: X Puan
 
 
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken X puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından X ile başlaması gerektiğine karar verildi.
@@ -79,4 +91,4 @@ X
 
 ## Product Backlog URL
 
-[Flutter Team 66 Miro Backlog Board](https://miro.com/app/
+[Flutter Team 66 Miro Backlog Board](https://miro.com/app/board/uXjVM9kq_tc=/)
