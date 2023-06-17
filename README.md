@@ -95,8 +95,5 @@ X
 
 
 
-## Contributors
-
-- [Duygu Sena Öztürk](https://github.com/duyguSenaOzturk) - Developer
 
 
