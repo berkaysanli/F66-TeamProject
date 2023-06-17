@@ -7,10 +7,10 @@ Takım Flutter 66
 ## Takım Elemanları
 
 - Berkay SANLI: Scrum Master                                 
-• Sena ÖNEMLİ: Product Owner                     
-• Duygu Sena Öztürk: Developer                    
-• Yasin Eskici: Developer                     
-• Hasan Hüseyin SİL: Aktif Olmayan Üye            
+- Sena ÖNEMLİ: Product Owner                     
+- Duygu Sena Öztürk: Developer                    
+- Yasin Eskici: Developer                     
+- Hasan Hüseyin SİL: Aktif Olmayan Üye            
 
 ## Ürün İsmi
 
@@ -34,24 +34,24 @@ Hedeflerinizi belirleyin, görevlerinizi yönetin ve ilerlemenizi izleyin.
 Unutkanlıktan kurtulun ve organize olun!
 
                                  
-• **Uygulama birincil fonksiyonu**: X                          
+- **Uygulama birincil fonksiyonu**: X                          
 
-• **Uygulama ikincil fonksiyonu**: X                                
+- **Uygulama ikincil fonksiyonu**: X                                
 
 ## Ürün Özellikleri
 
-• Geri Sayım ve Hatırlatıcılar: Uygulama, geri sayım ve hatırlatıcı özellikleriyle size zamanı yönetme konusunda yardımcı olur.
-• To Do, ilerlemenizi takip etmenizi sağlar. Tamamladığınız görevleri işaretleyerek, ne kadar yol katettiğinizi görebilir ve motive olabilirsiniz.
-• Hatırlatıcılar ve Bildirimler: Kullanıcılara hatırlatıcılar ve bildirimler göndererek önemli görevleri veya süreleri yaklaşan işleri hatırlatır.
+- Geri Sayım ve Hatırlatıcılar: Uygulama, geri sayım ve hatırlatıcı özellikleriyle size zamanı yönetme konusunda yardımcı olur.
+- To Do, ilerlemenizi takip etmenizi sağlar. Tamamladığınız görevleri işaretleyerek, ne kadar yol katettiğinizi görebilir ve motive olabilirsiniz.
+- Hatırlatıcılar ve Bildirimler: Kullanıcılara hatırlatıcılar ve bildirimler göndererek önemli görevleri veya süreleri yaklaşan işleri hatırlatır.
 
 ## Hedef Kitle
                               
-• Bir ekip veya takım çalışması içerisinde olanlar                        
-• Öğrenciler                               
-• X                       
-• X                              
-• X                           
-• X                                  
+- Bir ekip veya takım çalışması içerisinde olanlar                        
+- Öğrenciler                               
+- X                       
+- X                              
+- X                           
+- X                                  
 
 ## Juriye Not
 
