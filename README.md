@@ -81,9 +81,9 @@ X
 - Pomodoro eklentisi, hatırlatıcılar ve bildirim çubuğu eklentisi, firebase bağlantısı Sprint 2'de yapılmak üzere karar alındı.
 
 - **Sprint Retrospective:**
-  - X
-  - X
-  - X
+  - Önümüzdeki Sprint hedeflerinde herkesin kendi scrum rollerine göre daha fazla sorumluluk ve daha fazla görev üstlenmesi gerektiği ilgili toplantılarda vurgulanmıştır.
+  - 
+  - 
  
 
 
