@@ -92,3 +92,11 @@ X
 ## Product Backlog URL
 
 [Flutter Team 66 Miro Backlog Board](https://miro.com/app/board/uXjVM9kq_tc=/)
+
+
+
+## Contributors
+
+- [Duygu Sena Öztürk](https://github.com/duyguSenaOzturk) - Developer
+
+
