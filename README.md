@@ -6,7 +6,7 @@ Takım Flutter 66
 
 ## Takım Elemanları
 
-• Berkay SANLI: Scrum Master                                 
+- Berkay SANLI: Scrum Master                                 
 • Sena ÖNEMLİ: Product Owner                     
 • Duygu Sena Öztürk: Developer                    
 • Yasin Eskici: Developer                     
