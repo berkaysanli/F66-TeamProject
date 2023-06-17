@@ -33,10 +33,10 @@ To Do`nun amacı, kullanıcıların günlük hayatlarını düzenlemek, hedefler
 Hedeflerinizi belirleyin, görevlerinizi yönetin ve ilerlemenizi izleyin.
 Unutkanlıktan kurtulun ve organize olun!
 
+                                 
+• **Uygulama birincil fonksiyonu**: X                          
 
-• **Uygulama birincil fonksiyonu**: X
-
-• **Uygulama ikincil fonksiyonu**: X
+• **Uygulama ikincil fonksiyonu**: X                                
 
 ## Ürün Özellikleri
 
@@ -45,13 +45,13 @@ Unutkanlıktan kurtulun ve organize olun!
 • Hatırlatıcılar ve Bildirimler: Kullanıcılara hatırlatıcılar ve bildirimler göndererek önemli görevleri veya süreleri yaklaşan işleri hatırlatır.
 
 ## Hedef Kitle
-
-• Bir ekip veya takım çalışması içerisinde olanlar
-• Öğrenciler
-• X
-• X
-• X
-• X
+                              
+• Bir ekip veya takım çalışması içerisinde olanlar                        
+• Öğrenciler                               
+• X                       
+• X                              
+• X                           
+• X                                  
 
 ## Juriye Not
 
