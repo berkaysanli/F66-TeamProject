@@ -50,10 +50,6 @@ Hedeflerini belirleyin, görevlerinizi yönetin ve ilerlemenizi kolaylıkla izle
 - Plan yaparken dikkat eksikliği, hiperaktivite bozukluğu yaşayanlar                           
 - Planlama yapmak isteyen herkes                          
 
-## Juriye Not
-
-X
-
 
 ---
 
