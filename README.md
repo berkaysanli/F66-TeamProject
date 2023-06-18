@@ -68,7 +68,9 @@ Hedeflerini belirleyin, görevlerinizi yönetin ve ilerlemenizi kolaylıkla izle
 ![Backlog 1](https://github.com/berkaysanli/F66-TeamProject/blob/main/ProjectManagement/Sprint1/Sprint1board.png)
 
 
+
 - **Ürün Durumu**: Ekran görüntüleri:
+ 
   ![Screenshot 1](https://github.com/berkaysanli/F66-TeamProject/blob/main/ProjectManagement/Sprint1/andro1.png)
   ![Screenshot 2](https://github.com/berkaysanli/F66-TeamProject/blob/main/ProjectManagement/Sprint1/andro2.png)
   ![Screenshot 3](https://github.com/berkaysanli/F66-TeamProject/blob/main/ProjectManagement/Sprint1/andro3.png)
