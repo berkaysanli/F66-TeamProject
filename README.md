@@ -55,13 +55,14 @@ Hedeflerini belirleyin, görevlerinizi yönetin ve ilerlemenizi kolaylıkla izle
 
 # Sprint 1
 
-- **Sprint içinde tamamlanması tahmin edilen puan**: X Puan
+- **Sprint içinde tamamlanması tahmin edilen puan**: 80 Puan
 
 
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken X puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından X ile başlaması gerektiğine karar verildi.
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 400 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 80 ile başlaması gerektiğine karar verildi. Sprint 2 için 160 puan, Sprint 3 için 160 puan.
+- Tüm sprintler 400 backlog puan olacak şekilde puan hedefi belirlenmiştir.
 
 
-- **Daily Scrum**: Daily Scrum toplantılarında görevler planlanırken ve uygulanırken takım arkadaşlara ekran paylaşımı aracılığıyla yapılan anlatımların süreci kolaylaştırması ve anlaşılırlık oranında yarar sağladığı gözlemlenmesinden, toplantılar Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats]) X LİNK
+- **Daily Scrum**: Daily Scrum toplantılarında görevler planlanırken ve uygulanırken takım arkadaşlara ekran paylaşımı aracılığıyla yapılan anlatımların süreci kolaylaştırması ve anlaşılırlık oranında yarar sağladığı gözlemlenmesinden, toplantılar Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats]( X LİNK
 
 - **Sprint board update**: Sprint board screenshotları: 
 ![Backlog 1] X LİNK
