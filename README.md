@@ -84,7 +84,7 @@ Hedeflerini belirleyin, görevlerinizi yönetin ve ilerlemenizi kolaylıkla izle
   - Önümüzdeki Sprint hedeflerinde herkesin kendi scrum rollerine göre daha fazla sorumluluk ve daha fazla görev üstlenmesi gerektiği ilgili toplantılarda vurgulanmıştır.
   - Sprint 1 hedefimiz için önce figma üzerinden uygulama arayüzü menülerinin nasıl tasarlanması gerektiği ve uygulama simgesi gibi örnek çalışmalar yaptık.
   - Sprint 2 için hedefimiz uygulamayı oluşturan ana kısımları kodlamak.
-  - sprint 3 zamanında ise eksik kısımlarımızı bitirerek projeyi eksiksiz şekilde tamamlamayı hedefliyoruz.
+  - Sprint 3 zamanında ise eksik kısımlarımızı bitirerek projeyi eksiksiz şekilde tamamlamayı hedefliyoruz.
 
  
 
