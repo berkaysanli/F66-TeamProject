@@ -14,7 +14,7 @@ Takım Flutter 66
 
 ## Ürün İsmi
 
---Mitodoo--
+--Kittycat--
 
 ## Product Backlog URL
 
@@ -22,14 +22,14 @@ Takım Flutter 66
 
 ## Ürün Açıklaması
 
-To Do: Hedeflerinizi Takip Edin ve Organize Olun!
-To Do, günlük işlerinizi, görevlerinizi ve hedeflerinizi takip etmek için kullanıcı dostu bir uygulamadır.
-To Do, kullanıcıların işlerini düzenlemelerine, önceliklendirmelerine ve takip etmelerine yardımcı olur.
+KittyCat ile Hedeflerinizi Takip Edin ve Organize Olun!
+KittyCat, günlük işlerinizi, görevlerinizi ve hedeflerinizi takip etmek için kullanıcı dostu bir uygulamadır.
+KittyCat, kullanıcıların işlerini düzenlemelerine, önceliklendirmelerine ve takip etmelerine yardımcı olur.
 Basit bir kullanıcı arabirimiyle, görevlerinizi hızlıca ekleyebilir, tamamlanma durumunu işaretleyebilir ve işlerinizi kolayca organize edebilirsiniz. 
 
 Uygulama içinde bulunan pomodoro eklentisi sayesinde çalışma sürelerinizi takip edebilir ve kişisel mola sürelerinizi planlayabilirsiniz.
 
-To Do'nun amacı, kullanıcıların günlük hayatlarını düzenlemek, kişisel hedeflere odaklanmak ve verimli bir şekilde çalışmak için gereken araçları sizlere sunmaktır.
+KittyCat'in amacı, kullanıcıların günlük hayatlarını düzenlemek, kişisel hedeflere odaklanmak ve verimli bir şekilde çalışmak için gereken araçları sizlere sunmaktır.
 Hedeflerini belirleyin, görevlerinizi yönetin ve ilerlemenizi kolaylıkla izleyin.
 
                                  
@@ -39,7 +39,7 @@ Hedeflerini belirleyin, görevlerinizi yönetin ve ilerlemenizi kolaylıkla izle
 ## Ürün Özellikleri
 
 - Geri Sayım: Uygulama, geri sayım özelliği ile size planınız için ayarladığınız zamanı takip etmeniz konusunda yardımcı olur.
-- To Do, ilerlemenizi takip etmenizi sağlar. Tamamladığınız görevleri işaretleyerek, ne kadar yol katettiğinizi görebilir ve motive olabilirsiniz.
+- KittyCat, ilerlemenizi takip etmenizi sağlar. Tamamladığınız görevleri işaretleyerek, ne kadar yol katettiğinizi görebilir ve motive olabilirsiniz.
 - Hatırlatıcılar ve Bildirimler: Kullanıcılara hatırlatıcılar ve bildirimler göndererek önemli görevleri veya süreleri yaklaşan işleri hatırlatır.
 
 ## Hedef Kitle
