@@ -69,9 +69,11 @@ Hedeflerini belirleyin, görevlerinizi yönetin ve ilerlemenizi kolaylıkla izle
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1] X
-  ![Screenshot 2] X
-  ![Screenshot 3] X
+  ![Screenshot 1](https://github.com/berkaysanli/F66-TeamProject/blob/main/ProjectManagement/Sprint1/andro1.png)
+  ![Screenshot 2](https://github.com/berkaysanli/F66-TeamProject/blob/main/ProjectManagement/Sprint1/andro2.png)
+  ![Screenshot 3](https://github.com/berkaysanli/F66-TeamProject/blob/main/ProjectManagement/Sprint1/andro3.png)
+  ![Screenshot 3](https://github.com/berkaysanli/F66-TeamProject/blob/main/ProjectManagement/Sprint1/andro4.png)
+  
 - **Sprint Review**: 
 - Uygulamada her sayfa için arayüz eklenmesi karar kılındı ve tamamlandı.
 - Alınan kararlar:
