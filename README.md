@@ -65,7 +65,7 @@ Hedeflerini belirleyin, görevlerinizi yönetin ve ilerlemenizi kolaylıkla izle
 - **Daily Scrum**: Daily Scrum toplantılarında görevler planlanırken ve uygulanırken takım arkadaşlara ekran paylaşımı aracılığıyla yapılan anlatımların süreci kolaylaştırması ve anlaşılırlık oranında yarar sağladığı gözlemlenmesinden, toplantılar Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/berkaysanli/F66-TeamProject/tree/main/ProjectManagement/Sprint1/DailyScrum)
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1] X LİNK
+![Backlog 1](https://github.com/berkaysanli/F66-TeamProject/blob/main/ProjectManagement/Sprint1/Sprint1board.png)
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
