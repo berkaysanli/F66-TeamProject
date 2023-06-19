@@ -55,7 +55,7 @@ Hedeflerini belirleyin, görevlerinizi yönetin ve ilerlemenizi kolaylıkla izle
 
 # Sprint 1
 
-- **Sprint Notları: Kullanıcı hikayeleri Miro'da product backlog'ların içine yazılmıştır. Kullanıcı hikayeleri detaylarına backlog kısmından ulaşılabilir.
+- **Sprint Notları**: Kullanıcı hikayeleri Miro'da product backlog'ların içine yazılmıştır. Kullanıcı hikayeleri detaylarına backlog kısmından ulaşılabilir.
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 80 Puan
 
