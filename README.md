@@ -110,19 +110,20 @@ Hedeflerini belirleyin, görevlerinizi yönetin ve ilerlemenizi kolaylıkla izle
 # Sprint 2
 
 - **Sprint Notları**: Takımsal koordine eksiklikleri ve bayram tatili sebebiyle çalışmalarımız beklenen performansında ilerleyememiştir.
+- Figma üzerinden tasarlanan arayüz tasarımlarına benzer görsel dokunuşlar ve kodlamalar yapılması adına yeterli süremiz bulunmadığından arayüz kodlama aşamasında Figma görsellerine uyumlu arayüz fikrimiz şimdilik 2. planda kalmıştır.
 
 -  **Sprint içinde tamamlanması tahmin edilen puan**: 160 Puan
 
 -  - **Daily Scrum**:  Takım üyelerinin gündelik yaşam rutinlerinde olan iş, ders yoğunluğu ve bayram sebebiyle toplantılar herkesin katılımı olmadan genellikle 2 kişinin katıldığı ve toplantı sonrasında alınan kararların toplantıya katılamayan takımın diğer üyelerine bildirilmesi ile tamamlanmıştır.
-[Sprint 1 Daily Scrum Chats](x)
+[Sprint 1 Daily Scrum Chats] (x)
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1](x)
+![Backlog 1] (x)
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
--  ![Screenshot 1](x)
--  ![Screenshot 2](x)
+-  ![Screenshot 1] (x)
+-  ![Screenshot 2] (x)
 
 
 
