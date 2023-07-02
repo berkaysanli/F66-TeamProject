@@ -105,7 +105,7 @@ Hedeflerini belirleyin, görevlerinizi yönetin ve ilerlemenizi kolaylıkla izle
 
 
 
-
+---
 
 # Sprint 2
 
