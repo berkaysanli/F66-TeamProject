@@ -128,8 +128,8 @@ Hedeflerini belirleyin, görevlerinizi yönetin ve ilerlemenizi kolaylıkla izle
 
 
 - **Sprint Review**:
-- Arayüz kodlanmaya başlandı. Henüz tamamlanmadı.
-- Bir önceki Sprint 1 Review'ında belirtildiği üzere Pomodoro eklentisi, hatırlatıcılar ve bildirim çubuğu eklentisi ve firebase bağlantılarının Sprint2'de tamamlanması bekleniyordu. Gündelik yaşam yoğunluğu sebebiyle yaşanılan zaman yönetimi sorunu ve eksik iletişim sorunları sebebiyle sadece Pomodoro eklentisi Sprint2'de tamamlanabildi.
+- Arayüz kodlanmaya başlandı. Henüz tamamlanmadı, devam ediyor.
+- Bir önceki Sprint 1 Review'ında belirtildiği üzere Pomodoro eklentisi, hatırlatıcılar ve bildirim çubuğu eklentisi ve firebase bağlantılarının Sprint2'de tamamlanması bekleniyordu. Gündelik yaşam yoğunluğu sebebiyle yaşanılan zaman yönetimi sorunu ve eksik iletişim sorunları sebebiyle sadece Pomodoro eklentisi Sprint2'de tamamlanabildi. Diğer parametre çalışmaları devam ediyor.
 
 - **Sprint Retrospective:**
   - Herkesin elinden gelen en iyi çalışmayı göstermek üzere geriye sadece son sprint yani son bir şansları kaldıklarının vurgusu, eksikliklerimizin tamamlanması gerektiği bilgisi takım üyelerine bildirildi.
