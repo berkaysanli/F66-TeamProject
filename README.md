@@ -132,7 +132,7 @@ Hedeflerini belirleyin, görevlerinizi yönetin ve ilerlemenizi kolaylıkla izle
 - Bir önceki Sprint 1 Review'ında belirtildiği üzere Pomodoro eklentisi, hatırlatıcılar ve bildirim çubuğu eklentisi ve firebase bağlantılarının Sprint2'de tamamlanması bekleniyordu. Gündelik yaşam yoğunluğu sebebiyle yaşanılan zaman yönetimi sorunu ve eksik iletişim sorunları sebebiyle sadece Pomodoro eklentisi Sprint2'de tamamlanabildi. Diğer parametre çalışmaları devam ediyor.
 
 - **Sprint Retrospective:**
-  - Herkesin elinden gelen en iyi çalışmayı göstermek üzere geriye sadece son sprint yani son bir şansları kaldıklarının vurgusu, eksikliklerimizin tamamlanması gerektiği bilgisi takım üyelerine bildirildi.
+  - Herkesin elinden gelen en iyi çalışmayı göstermek üzere geriye sadece son sprint yani son bir şansları kaldıklarının vurgusu, eksikliklerimizin tamamlanması gerektiği bilgisi Scrum master tarafından takım üyelerine bildirildi.
 
  ---
 
