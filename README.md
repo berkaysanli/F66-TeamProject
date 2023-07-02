@@ -113,7 +113,7 @@ Hedeflerini belirleyin, görevlerinizi yönetin ve ilerlemenizi kolaylıkla izle
 
 -  **Sprint içinde tamamlanması tahmin edilen puan**: 160 Puan
 
--  - **Daily Scrum**:  Takım üyelerinin gündelik yaşam rutinlerinde olan iş, ders yoğunluğu ve bayram sebebiyle toplantılar herkesin katılımı olmadan genellikle 2 kişinin katıldığı ve toplantı sonrasında konuşulan kararların toplantıya katılamayan takımın diğer üyelerine bildirilmesi ile tamamlanmıştır.
+-  - **Daily Scrum**:  Takım üyelerinin gündelik yaşam rutinlerinde olan iş, ders yoğunluğu ve bayram sebebiyle toplantılar herkesin katılımı olmadan genellikle 2 kişinin katıldığı ve toplantı sonrasında alınan kararların toplantıya katılamayan takımın diğer üyelerine bildirilmesi ile tamamlanmıştır.
 [Sprint 1 Daily Scrum Chats](x)
 
 - **Sprint board update**: Sprint board screenshotları: 
