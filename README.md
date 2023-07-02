@@ -118,7 +118,7 @@ Hedeflerini belirleyin, görevlerinizi yönetin ve ilerlemenizi kolaylıkla izle
 [Sprint 1 Daily Scrum Chats] (x)
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1] (x)
+![Backlog 1](https://github.com/berkaysanli/F66-TeamProject/blob/main/ProjectManagement/Sprint2/sprint2boardpage.png)
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
