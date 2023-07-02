@@ -79,7 +79,7 @@ Hedeflerini belirleyin, görevlerinizi yönetin ve ilerlemenizi kolaylıkla izle
   ![Screenshot 3](https://github.com/berkaysanli/F66-TeamProject/blob/main/ProjectManagement/Sprint1/andro4.png)
   
 - **Sprint Review**: 
-- Uygulamada her sayfa için arayüz eklenmesi karar kılındı ve tamamlandı.
+- Uygulamada her sayfa için arayüz eklenmesi karar kılındı.
 - Alınan kararlar:
 - Pomodoro eklentisi, hatırlatıcılar ve bildirim çubuğu eklentisi, firebase bağlantısı Sprint 2'de yapılmak üzere karar alındı.
 
@@ -102,3 +102,39 @@ Hedeflerini belirleyin, görevlerinizi yönetin ve ilerlemenizi kolaylıkla izle
 
 
 
+
+
+
+
+
+# Sprint 2
+
+- **Sprint Notları**: Takımsal koordine eksiklikleri ve bayram tatili sebebiyle çalışmalarımız beklenen performansında ilerleyememiştir.
+
+-  **Sprint içinde tamamlanması tahmin edilen puan**: 160 Puan
+
+-  - **Daily Scrum**:  Takım üyelerinin gündelik yaşam rutinlerinde olan iş, ders yoğunluğu ve bayram sebebiyle toplantılar herkesin katılımı olmadan genellikle 2 kişinin katıldığı ve toplantı sonrasında konuşulan kararların toplantıya katılamayan takımın diğer üyelerine bildirilmesi ile tamamlanmıştır.
+[Sprint 1 Daily Scrum Chats](x)
+
+- **Sprint board update**: Sprint board screenshotları: 
+![Backlog 1](x)
+
+
+- **Ürün Durumu**: Ekran görüntüleri:
+-  ![Screenshot 1](x)
+-  ![Screenshot 2](x)
+
+
+
+- **Sprint Review**:
+- Arayüz kodlanmaya başlandı. Henüz tamamlanmadı.
+- Bir önceki Sprint 1 Review'ında belirtildiği üzere Pomodoro eklentisi, hatırlatıcılar ve bildirim çubuğu eklentisi ve firebase bağlantılarının Sprint2'de tamamlanması bekleniyordu. Gündelik yaşam yoğunluğu sebebiyle yaşanılan zaman yönetimi sorunu ve eksik iletişim sorunları sebebiyle sadece Pomodoro eklentisi Sprint2'de tamamlanabildi.
+
+- **Sprint Retrospective:**
+  - Herkesin elinden gelen en iyi çalışmayı göstermek üzere geriye sadece son sprint yani son bir şansları kaldıklarının vurgusu, eksikliklerimizin tamamlanması gerektiği bilgisi takım üyelerine bildirildi.
+
+ ---
+
+ ## Product Backlog URL
+
+ [Flutter Team 66 Miro Backlog Board](https://miro.com/app/board/uXjVM9kq_tc=/?moveToWidget=3458764558466385653&cot=14)
