@@ -64,7 +64,7 @@ Hedeflerini belirleyin, görevlerinizi yönetin ve ilerlemenizi kolaylıkla izle
 - Tüm sprintler 400 backlog puan olacak şekilde puan hedefi belirlenmiştir.
 
 
-- **Daily Scrum**: Daily Scrum toplantılarında görevler planlanırken ve uygulanırken takım arkadaşlara ekran paylaşımı aracılığıyla yapılan anlatımların süreci kolaylaştırması ve anlaşılırlık oranında yarar sağladığı gözlemlenmesinden, toplantılar Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/berkaysanli/F66-TeamProject/tree/main/ProjectManagement/Sprint1/DailyScrum)
+- **Daily Scrum**: Daily Scrum toplantılarında görevler planlanırken ve uygulanırken takım arkadaşlara ekran paylaşımı aracılığıyla yapılan anlatımların süreci kolaylaştırması ve anlaşılırlık oranında yarar sağladığı gözlemlenmesinden, toplantılar Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/berkaysanli/F66-TeamProject/raw/main/ProjectManagement/Sprint2/dailyscrumdiscordtoplanti.docx)
 
 - **Sprint board update**: Sprint board screenshotları: 
 ![Backlog 1](https://github.com/berkaysanli/F66-TeamProject/blob/main/ProjectManagement/Sprint1/Sprint1board.png)
