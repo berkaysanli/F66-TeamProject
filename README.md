@@ -115,15 +115,17 @@ Hedeflerini belirleyin, görevlerinizi yönetin ve ilerlemenizi kolaylıkla izle
 -  **Sprint içinde tamamlanması tahmin edilen puan**: 160 Puan
 
 -  - **Daily Scrum**:  Takım üyelerinin gündelik yaşam rutinlerinde olan iş, ders yoğunluğu ve bayram sebebiyle toplantılar herkesin katılımı olmadan genellikle 2 kişinin katıldığı ve toplantı sonrasında alınan kararların toplantıya katılamayan takımın diğer üyelerine bildirilmesi ile tamamlanmıştır.
-[Sprint 1 Daily Scrum Chats] (x)
+[Sprint 1 Daily Scrum Chats](https://github.com/berkaysanli/F66-TeamProject/blob/main/ProjectManagement/Sprint2/dailyscrumdiscordtoplanti.docx)
 
 - **Sprint board update**: Sprint board screenshotları: 
 ![Backlog 1](https://github.com/berkaysanli/F66-TeamProject/blob/main/ProjectManagement/Sprint2/sprint2boardpage.png)
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
--  ![Screenshot 1] (x)
--  ![Screenshot 2] (x)
+-  ![Screenshot 1](https://github.com/berkaysanli/F66-TeamProject/blob/main/ProjectManagement/Sprint2/loginpage.jpg)
+-  ![Screenshot 2](https://github.com/berkaysanli/F66-TeamProject/blob/main/ProjectManagement/Sprint2/welcomepage.jpg)
+-  ![Screenshot 3](https://github.com/berkaysanli/F66-TeamProject/blob/main/ProjectManagement/Sprint2/todopage.jpg)
+-  ![Screenshot 3](https://github.com/berkaysanli/F66-TeamProject/blob/main/ProjectManagement/Sprint2/pomodoropage.jpg)
 
 
 
@@ -132,7 +134,7 @@ Hedeflerini belirleyin, görevlerinizi yönetin ve ilerlemenizi kolaylıkla izle
 - Bir önceki Sprint 1 Review'ında belirtildiği üzere Pomodoro eklentisi, hatırlatıcılar ve bildirim çubuğu eklentisi ve firebase bağlantılarının Sprint2'de tamamlanması bekleniyordu. Gündelik yaşam yoğunluğu sebebiyle yaşanılan zaman yönetimi sorunu ve eksik iletişim sorunları sebebiyle sadece Pomodoro eklentisi Sprint2'de tamamlanabildi. Diğer parametre çalışmaları devam ediyor.
 
 - **Sprint Retrospective:**
-  - Herkesin elinden gelen en iyi çalışmayı göstermek üzere geriye sadece son sprint yani son bir şansları kaldıklarının vurgusu, eksikliklerimizin tamamlanması gerektiği bilgisi Scrum master tarafından takım üyelerine bildirildi.
+  - Herkesin elinden gelen en iyi çalışmayı göstermek üzere geriye sadece son sprint hakkımız kaldığının vurgusu, eksikliklerimizin tamamlanması gerektiğinin önemi takım üyelerine bildirildi.
 
  ---
 
