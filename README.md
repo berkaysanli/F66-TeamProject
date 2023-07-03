@@ -110,7 +110,7 @@ Hedeflerini belirleyin, görevlerinizi yönetin ve ilerlemenizi kolaylıkla izle
 # Sprint 2
 
 - **Sprint Notları**: Takımsal koordine eksiklikleri ve bayram tatili sebebiyle çalışmalarımız beklenen performansında ilerleyememiştir.
-- Figma üzerinden 1.Sprint'te tasarlanan arayüz tasarımlarına benzer görsel dokunuşlar ve kodlamalar yapılması adına yeterli süremiz bulunmadığından arayüz kodlama aşamasında Figma görsellerine uyumlu arayüz kodlama fikrimiz şimdilik 2. planda kalmıştır.
+- Figma üzerinden 1.Sprint'te tasarlanan arayüz tasarımlarına benzer görsel dokunuşlar ve kodlamalar yapılması adına yeterli süremiz bulunmadığından arayüz kodlama aşamasında Figma görsellerine uyumlu arayüz kodlama fikri iptal edilmiştir. Yerine arayüzü daha sade bir uygulama arayüzü tercih edilmiştir.
 
 -  **Sprint içinde tamamlanması tahmin edilen puan**: 160 Puan
 
