@@ -113,6 +113,9 @@ Hedeflerini belirleyin, görevlerinizi yönetin ve ilerlemenizi kolaylıkla izle
 - Figma üzerinden 1.Sprint'te tasarlanan arayüz tasarımlarına benzer görsel dokunuşlar ve kodlamalar yapılması adına yeterli süremiz bulunmadığından arayüz kodlama aşamasında Figma görsellerine uyumlu arayüz kodlama fikri iptal edilmiştir. Yerine arayüzü daha sade bir uygulama arayüzü tercih edilmiştir.
 
 -  **Sprint içinde tamamlanması tahmin edilen puan**: 160 Puan
+-  
+-   **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 400 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 80 ile başlaması gerektiğine karar verildi. Sprint 2 için 160 puan, Sprint 3 için 160 puan.
+- Tüm sprintler 400 backlog puan olacak şekilde puan hedefi belirlenmiştir.
 
 -  - **Daily Scrum**:  Takım üyelerinin gündelik yaşam rutinlerinde olan iş, ders yoğunluğu ve bayram sebebiyle toplantılar herkesin katılımı olmadan genellikle 2 kişinin katıldığı ve toplantı sonrasında alınan kararların toplantıya katılamayan takımın diğer üyelerine bildirilmesi ile tamamlanmıştır.
 [Sprint 1 Daily Scrum Chats](https://github.com/berkaysanli/F66-TeamProject/blob/main/ProjectManagement/Sprint2/dailyscrumdiscordtoplanti.docx)
