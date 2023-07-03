@@ -135,7 +135,7 @@ Hedeflerini belirleyin, görevlerinizi yönetin ve ilerlemenizi kolaylıkla izle
 
 - **Sprint Retrospective:**
   - Herkesin elinden gelen en iyi çalışmayı göstermek üzere geriye sadece son sprint hakkımız kaldığının vurgusu, eksikliklerimizin tamamlanması gerektiğinin önemi takım üyelerine bildirildi.
-  - Uygulamanın tasarım, figüran, firebase ve henüz tamamlanmayan bir takım diğer kodlama süreçlerinin değerlendirilmeye hazır son hali Sprint3 aşamasında bitmesi planlanmıştır.
+  - Uygulamanın tasarım, figüran, firebase ve henüz tamamlanmayan diğer kodlama süreçlerinin değerlendirilmeye hazır son halinin Sprint3 aşamasında bitmesi planlanmıştır.
 
  ---
 
