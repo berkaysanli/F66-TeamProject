@@ -180,6 +180,7 @@ Hedeflerini belirleyin, görevlerinizi yönetin ve ilerlemenizi kolaylıkla izle
 -  ![Screenshot 2](https://github.com/berkaysanli/F66-TeamProject/blob/main/ProjectManagement/Sprint2/welcomepage.jpg)
 -  ![Screenshot 3](https://github.com/berkaysanli/F66-TeamProject/blob/main/ProjectManagement/Sprint2/todopage.jpg)
 -  ![Screenshot 3](https://github.com/berkaysanli/F66-TeamProject/blob/main/ProjectManagement/Sprint2/pomodoropage.jpg)
+ 
 
 
 
