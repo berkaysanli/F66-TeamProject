@@ -156,7 +156,7 @@ Hedeflerini belirleyin, görevlerinizi yönetin ve ilerlemenizi kolaylıkla izle
 # Sprint 3
 
 
-- **Sprint Notları**: Takım üyelerinden Scrum Master rolü üstlenen Berkay SANLI'nın bilgisayar ekranının kırılmasından ötürü projenin geriye kalan ve son aşaması olan Sprint3 için Miro üzerinden görev dağılımını duyurmuş olup; takım üyelerinin bu görev dağılımını yerine getirmemesi ile Sprint 3 tamamlanamadan proje sonuna gelinmiştir.
+- **Sprint Notları**: Takım üyelerinden Scrum Master rolü üstlenen Berkay SANLI'nın bilgisayar ekranının kırılmasından ötürü projenin geriye kalan ve son aşaması olan Sprint3 için Miro ve whatsapp grubu üzerinden görev dağılımını duyurmuş olup; takım üyelerinin bu görev dağılımını yerine getirmemesi ile Sprint 3 görevleri tamamlanamadan proje sonuna gelinmiştir.
 
 -  **Sprint içinde tamamlanması tahmin edilen puan**: 160 Puan
 
