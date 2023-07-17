@@ -183,8 +183,8 @@ Hedeflerini belirleyin, görevlerinizi yönetin ve ilerlemenizi kolaylıkla izle
 
 
 
-- **Sprint Review**: Sprint2 [Sprint Review]'ında belirtilen devam etmek olan diğer parametre çalışmalarının hiç biri tamamlanmadı.
- Proje, Miro'daki backlog kısmında Sprint3 için tamamlanması gereken aşamaların olmadığı; eksik bir şekilde teslimi yapılacak.
+- **Sprint Review**: Sprint2 [Sprint Review]'ında belirtilen devam etmekte olan diğer parametre çalışmalarının hiç biri tamamlanmadı.
+ Proje, Miro'daki backlog kısmında Sprint3 için tamamlanması gereken aşamaların tamamlanmadığı bir şekilde teslimi yapılacak.
 
 
 
