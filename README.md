@@ -170,7 +170,7 @@ Hedeflerini belirleyin, görevlerinizi yönetin ve ilerlemenizi kolaylıkla izle
 
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 3](x)
+![Backlog 3](https://github.com/berkaysanli/F66-TeamProject/blob/main/ProjectManagement/Sprint3/sprint3board.png)
 
 
 
