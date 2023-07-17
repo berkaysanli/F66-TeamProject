@@ -146,3 +146,55 @@ Hedeflerini belirleyin, görevlerinizi yönetin ve ilerlemenizi kolaylıkla izle
  ## Product Backlog URL
 
  [Flutter Team 66 Miro Backlog Board](https://miro.com/app/board/uXjVM9kq_tc=/?moveToWidget=3458764558466385653&cot=14)
+
+
+
+
+
+ ---
+
+# Sprint 3
+
+
+- **Sprint Notları**:
+
+-  **Sprint içinde tamamlanması tahmin edilen puan**: 160 Puan
+
+
+-   **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 400 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 80 ile başlaması gerektiğine karar verildi. Sprint 2 için 160 puan, Sprint 3 için 160 puan.
+- Tüm sprintler 400 backlog puan olacak şekilde puan hedefi belirlenmiştir.
+
+
+
+- **Daily Scrum**: Daily Scrum toplantılarında görevler planlanırken ve uygulanırken takım arkadaşlara ekran paylaşımı aracılığıyla yapılan anlatımların süreci kolaylaştırması ve anlaşılırlık oranında yarar sağladığı gözlemlenmesinden, toplantılar Discord üzerinden yapılmasına karar verilmiştir.
+
+
+
+- **Sprint board update**: Sprint board screenshotları: 
+![Backlog 1](x)
+
+
+
+
+- **Ürün Durumu**: Ekran görüntüleri:
+-  ![Screenshot 1](https://github.com/berkaysanli/F66-TeamProject/blob/main/ProjectManagement/Sprint2/loginpage.jpg)
+-  ![Screenshot 2](https://github.com/berkaysanli/F66-TeamProject/blob/main/ProjectManagement/Sprint2/welcomepage.jpg)
+-  ![Screenshot 3](https://github.com/berkaysanli/F66-TeamProject/blob/main/ProjectManagement/Sprint2/todopage.jpg)
+-  ![Screenshot 3](https://github.com/berkaysanli/F66-TeamProject/blob/main/ProjectManagement/Sprint2/pomodoropage.jpg)
+
+
+
+- **Sprint Review**:
+
+
+
+- **Sprint Retrospective:**
+
+
+
+
+---
+
+ ## Product Backlog URL
+
+ [Flutter Team 66 Miro Backlog Board](x)
