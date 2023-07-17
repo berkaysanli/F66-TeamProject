@@ -189,7 +189,7 @@ Hedeflerini belirleyin, görevlerinizi yönetin ve ilerlemenizi kolaylıkla izle
 
 
 - **Sprint Retrospective:**
-Scrum Master'in takıma ilettiği Sprint 3 aşaması için yapılması gerekli görev dağılımlarının takımın diğer üyeleri tarafından yerine getirilmediği bir süreç yaşanarak proje sonuna gelindi.
+Scrum Master'in takıma ilettiği Sprint 3 aşaması için yapılması gerekli görev dağılımlarının takımın diğer üyeleri tarafından yerine getirilmediği bir süreç yaşanarak proje sonuna gelinmiştir.
 
 
 
