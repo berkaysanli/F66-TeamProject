@@ -156,7 +156,7 @@ Hedeflerini belirleyin, görevlerinizi yönetin ve ilerlemenizi kolaylıkla izle
 # Sprint 3
 
 
-- **Sprint Notları**:
+- **Sprint Notları**: Takım üyelerinden Scrum Master rolü üstlenen Berkay SANLI'nın bilgisayar ekranının kırılmasından ötürü projenin geriye kalan ve son aşaması olan Sprint3 için Miro üzerinden görev dağılımını duyurmuş olup; takım üyelerinin bu görev dağılımını yerine getirmemesi ile Sprint 3 tamamlanamadan proje sonuna gelinmiştir.
 
 -  **Sprint içinde tamamlanması tahmin edilen puan**: 160 Puan
 
@@ -183,17 +183,18 @@ Hedeflerini belirleyin, görevlerinizi yönetin ve ilerlemenizi kolaylıkla izle
 
 
 
-- **Sprint Review**:
+- **Sprint Review**: Sprint2'de belirtilen devam etmek olan diğer parametre çalışmalarının hiç biri tamamlanmadı.
+- Miro üzerinde backlog kısmında Sprint3 için tamamlanması gereken aşamalar eksik şekilde teslimi yapılacak.
 
 
 
 - **Sprint Retrospective:**
+Scrum Master'in takıma ilettiği Sprint 3 aşaması için yapılması gerekli görev dağılımlarının takımın diğer üyeleri tarafından yerine getirilmediği bir süreç yaşanarak proje sonuna gelindi.
 
 
 
-
----
+  
 
  ## Product Backlog URL
 
- [Flutter Team 66 Miro Backlog Board](x)
+ [Flutter Team 66 Miro Backlog Board](https://miro.com/app/board/uXjVM9kq_tc=/?moveToWidget=3458764559577445427&cot=14)
