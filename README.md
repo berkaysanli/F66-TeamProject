@@ -122,7 +122,7 @@ Hedeflerini belirleyin, görevlerinizi yönetin ve ilerlemenizi kolaylıkla izle
 [Sprint 1 Daily Scrum Chats](https://github.com/berkaysanli/F66-TeamProject/blob/main/ProjectManagement/Sprint2/dailyscrumdiscordtoplanti.docx)
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1](https://github.com/berkaysanli/F66-TeamProject/blob/main/ProjectManagement/Sprint2/sprint2boardpage.png)
+![Backlog 2](https://github.com/berkaysanli/F66-TeamProject/blob/main/ProjectManagement/Sprint2/sprint2boardpage.png)
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
@@ -161,17 +161,16 @@ Hedeflerini belirleyin, görevlerinizi yönetin ve ilerlemenizi kolaylıkla izle
 -  **Sprint içinde tamamlanması tahmin edilen puan**: 160 Puan
 
 
--   **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 400 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 80 ile başlaması gerektiğine karar verildi. Sprint 2 için 160 puan, Sprint 3 için 160 puan.
-- Tüm sprintler 400 backlog puan olacak şekilde puan hedefi belirlenmiştir.
+-   **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 400 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 80 ile başlaması gerektiğine karar verildi. Sprint 2 için 160 puan, Sprint 3 için 160 puan. Tüm sprintler 400 backlog puan olacak şekilde puan hedefi belirlenmiştir.
 
 
 
-- **Daily Scrum**: Daily Scrum toplantılarında görevler planlanırken ve uygulanırken takım arkadaşlara ekran paylaşımı aracılığıyla yapılan anlatımların süreci kolaylaştırması ve anlaşılırlık oranında yarar sağladığı gözlemlenmesinden, toplantılar Discord üzerinden yapılmasına karar verilmiştir.
+- **Daily Scrum**: Daily Scrum toplantılarında görevler planlanırken ve uygulanırken takım arkadaşlara ekran paylaşımı aracılığıyla yapılan anlatımların süreci kolaylaştırması ve anlaşılırlık oranında yarar sağladığı gözlemlenmesinden, toplantılar Discord üzerinden yapılmasına karar verilmiştir. Sprint 3'te takımsal iletişim problemi sebebiyle hiç toplantı gerçekleştirilmemiştir.
 
 
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1](x)
+![Backlog 3](x)
 
 
 
